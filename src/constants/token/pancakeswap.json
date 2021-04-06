@@ -82,12 +82,12 @@
       "logoURI": "/images/coins/BTC-icon.png"
     },
     {
-      "name": "BAND Protocol Token",
-      "symbol": "BAND",
-      "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
+      "name": "MimonSwap Token",
+      "symbol": "MIMON",
+      "address": "0x691C70a136ACf95346869E0825739636b0332642",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/band.png"
+      "logoURI": "/images/coins/MIMON.png"
     },
     {
       "name": "EOS Token",
@@ -250,9 +250,9 @@
       "decimals": 18
     },
     {
-      "name": "JNTR/b",
-      "symbol": "JNTR/b",
-      "address": "0x3c037c4c2296f280bb318d725d0b454b76c199b9",
+      "name": "MallsBase",
+      "symbol": "MBASE",
+      "address": "0x3dfaC6B77A065788cb24EAf205b1cA465c48c4E1",
       "chainId": 56,
       "decimals": 18
     },
