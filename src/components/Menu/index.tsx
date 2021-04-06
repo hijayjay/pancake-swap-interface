@@ -80,7 +80,7 @@ const MenuItem = styled(ExternalLink)`
   }
 `
 
-const CODE_LINK = 'https://github.com/pancakeswap'
+const CODE_LINK = 'https://github.com/mimonswap'
 
 export default function Menu() {
   const node = useRef<HTMLDivElement>()
@@ -100,7 +100,7 @@ export default function Menu() {
             <Info size={14} />
             About
           </MenuItem>
-          <MenuItem id="link" href="https://docs.pancakeswap.finance">
+          <MenuItem id="link" href="https://docs.mimon.finance">
             <BookOpen size={14} />
             <TranslatedText translationId={10}>Docs</TranslatedText>
           </MenuItem>
@@ -108,7 +108,7 @@ export default function Menu() {
             <Code size={14} />
             Code
           </MenuItem>
-          <MenuItem id="link" href="https://t.me/PancakeSwap">
+          <MenuItem id="link" href="https://t.me/mimonswap">
             <MessageCircle size={14} />
             <TranslatedText translationId={34}>Telegram</TranslatedText>
           </MenuItem>
