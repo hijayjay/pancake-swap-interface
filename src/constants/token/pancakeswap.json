@@ -26,12 +26,12 @@
       "decimals": 18
     },
     {
-      "name": "LP3 Token",
-      "symbol": "LP3",
-      "address": "0xe70b7523f4bffa1f2e88d2ba709afd026030f412",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "/images/coins/ETH.png"
+      "name": "BSC EXCHANGE",
+      "symbol": "BSC",
+      "address": "0xfC45AD458622e8b04fDb1a675B8747Dae7dCb684",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "/images/coins/BSC.png"
     },
     {
       "name": "BUSD Token",
@@ -83,10 +83,10 @@
     },
     {
       "name": "MimonSwap Token",
-      "symbol": "MIMON",
-      "address": "0x691C70a136ACf95346869E0825739636b0332642",
+      "symbol": "M✨M",
+      "address": "0xAe131Fb7E54Fc6c126ca2d0951B384428796Fd12",
       "chainId": 56,
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "/images/coins/MIMON.png"
     },
     {
