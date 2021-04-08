@@ -83,11 +83,11 @@
     },
     {
       "name": "MimonSwap Token",
-      "symbol": "M✨M",
-      "address": "0xAe131Fb7E54Fc6c126ca2d0951B384428796Fd12",
+      "symbol": "MM",
+      "address": "0xC0E1b0531c2f64efa9CaE09669565841760a276f",
       "chainId": 56,
       "decimals": 8,
-      "logoURI": "/images/coins/MIMON.png"
+      "logoURI": "/images/coins/MM.png"
     },
     {
       "name": "EOS Token",
