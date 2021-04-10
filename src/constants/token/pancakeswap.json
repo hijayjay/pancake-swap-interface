@@ -34,6 +34,14 @@
       "logoURI": "/images/coins/BSC.png"
     },
     {
+      "name": "BSC Nice",
+      "symbol": "BSC",
+      "address": "0x38b9861cc8Aa30f929425C5b3Eb2C8Dd57Aa2E2F",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "/images/coins/BSCN.png"
+    },
+    {
       "name": "BUSD Token",
       "symbol": "BUSD",
       "address": "0x615446C0Fd5eA8A5FD7fb763f3FC2C58774474F3",
