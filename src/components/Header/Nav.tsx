@@ -5,19 +5,19 @@ import TranslatedText from '../TranslatedText'
 const Nav: React.FC = () => {
   return (
     <StyledNav>
-      <StyledAbsoluteLink href="https://mallsbase.com">
-        <TranslatedText translationId={2}>Farm</TranslatedText>
+      <StyledAbsoluteLink href="https://safefarm.finance">
+        <TranslatedText translationId={2}>Home</TranslatedText>
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://mallsbase.com/staking">
-        <TranslatedText translationId={4}>Staking</TranslatedText>
+      <StyledAbsoluteLink href="https://www.safepal.io/">
+        <TranslatedText translationId={4}>SafePal Wallet</TranslatedText>
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://mallsbase.com/syrup">Syrup Pool</StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://mimon.finance" className="active">
-        <TranslatedText translationId={8}>Exchange</TranslatedText>
+      <StyledAbsoluteLink href="https://www.safebitcoin.io">SafeBTC</StyledAbsoluteLink>
+      <StyledAbsoluteLink href="https://exchange.safefarm.finance" className="active">
+        <TranslatedText translationId={8}>SafeSwap</TranslatedText>
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://pancakeswap.info">Analytics</StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://mallsbase.com/lottery">
-        <TranslatedText translationId={14}>Lottery</TranslatedText>
+      <StyledAbsoluteLink href="https://mallsbase.com">MallsBase</StyledAbsoluteLink>
+      <StyledAbsoluteLink href="https://t.me/SafeDaoProtocol">
+        <TranslatedText translationId={14}>Claim SafeDAO</TranslatedText>
       </StyledAbsoluteLink>
     </StyledNav>
   )
