@@ -131,11 +131,11 @@
     },
     {
       "name": "SafeFarm Token",
-      "symbol": "D✨",
+      "symbol": "DAO",
       "address": "0x323938D1e76c145DED3d260717Ec8bcC566278FE",
       "chainId": 56,
       "decimals": 8,
-      "logoURI": "/images/coins/SAFEFARM.png"
+      "logoURI": "/images/coins/Safefarm.png"
     },
     {
       "name": "Tether USD",
