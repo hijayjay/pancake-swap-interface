@@ -44,10 +44,10 @@
     {
       "name": "SafeDao Token",
       "symbol": "SPDAO",
-      "address": "0x615446C0Fd5eA8A5FD7fb763f3FC2C58774474F3",
-      "chainId": 97,
+      "address": "0x323938D1e76c145DED3d260717Ec8bcC566278FE",
+      "chainId": 56,
       "decimals": 8,
-      "logoURI": "/images/coins/SPDAO.png"
+      "logoURI": "/images/coins/Safefarm.png"
     },
     {
       "name": "SafeTesla Token",
