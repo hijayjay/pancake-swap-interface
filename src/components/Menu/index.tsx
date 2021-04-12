@@ -80,7 +80,7 @@ const MenuItem = styled(ExternalLink)`
   }
 `
 
-const CODE_LINK = 'https://github.com/mimonswap'
+const CODE_LINK = 'https://github.com/SafeDaoProtocol'
 
 export default function Menu() {
   const node = useRef<HTMLDivElement>()
@@ -96,21 +96,21 @@ export default function Menu() {
       </StyledMenuButton>
       {open && (
         <MenuFlyout>
-          <MenuItem id="link" href="/">
+          <MenuItem id="link" href="https://safefarm.finance">
             <Info size={14} />
             About
           </MenuItem>
-          <MenuItem id="link" href="https://docs.mimon.finance">
+          <MenuItem id="link" href="https://safedao.medium.com/safe-dao-protocol-d-token-sale-announcement-and-instructions-29649e63fb36">
             <BookOpen size={14} />
-            <TranslatedText translationId={10}>Docs</TranslatedText>
+            <TranslatedText translationId={10}>Medium</TranslatedText>
           </MenuItem>
           <MenuItem id="link" href={CODE_LINK}>
             <Code size={14} />
             Code
           </MenuItem>
-          <MenuItem id="link" href="https://t.me/mimonswap">
+          <MenuItem id="link" href="https://mallsbase.com">
             <MessageCircle size={14} />
-            <TranslatedText translationId={34}>Telegram</TranslatedText>
+            <TranslatedText translationId={34}>Our Partner</TranslatedText>
           </MenuItem>
           <MenuItem id="link" href="https://pancakeswap.info">
             <PieChart size={14} />
