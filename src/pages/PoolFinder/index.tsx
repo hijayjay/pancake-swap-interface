@@ -28,7 +28,7 @@ enum Fields {
 export default function PoolFinder() {
   const { account } = useActiveWeb3React()
 
-  const [showSearch, setShowSearch] = useState<boolean>(false)
+  const [showSearch, setShowSearch] = useState<boolean>(true)
   const [activeField, setActiveField] = useState<number>(Fields.TOKEN1)
 
   const [currency0, setCurrency0] = useState<Currency | null>(ETHER)
@@ -66,7 +66,7 @@ export default function PoolFinder() {
   )
 
   const handleSearchDismiss = useCallback(() => {
-    setShowSearch(false)
+    setShowSearch(true)
   }, [setShowSearch])
 
   const prerequisiteMessage = (
