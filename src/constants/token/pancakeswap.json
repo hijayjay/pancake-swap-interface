@@ -34,9 +34,17 @@
       "logoURI": "/images/coins/BSCN.png"
     },
     {
-      "name": "SafeFarm Protocol",
+      "name": "SafeDAO Protocol",
       "symbol": "D",
       "address": "0x323938D1e76c145DED3d260717Ec8bcC566278FE",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "/images/coins/D.png"
+    },
+    {
+      "name": "SafeFARM Protocol",
+      "symbol": "D",
+      "address": "0xB5fd5E4bAfc490e99ace8d9168Cb4D700fd41B57",
       "chainId": 56,
       "decimals": 8,
       "logoURI": "/images/coins/D.png"
