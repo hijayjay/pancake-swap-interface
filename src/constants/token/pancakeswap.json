@@ -34,8 +34,8 @@
       "logoURI": "/images/coins/BSCN.png"
     },
     {
-      "name": "SafeDao Token",
-      "symbol": "SPDAO",
+      "name": "SafeFarm Protocol",
+      "symbol": "D",
       "address": "0x323938D1e76c145DED3d260717Ec8bcC566278FE",
       "chainId": 56,
       "decimals": 8,
@@ -122,14 +122,6 @@
       "logoURI": "/images/coins/CAT.jpg"
     },
     {
-      "name": "SafeFarm Token",
-      "symbol": "DAO",
-      "address": "0x323938D1e76c145DED3d260717Ec8bcC566278FE",
-      "chainId": 56,
-      "decimals": 8,
-      "logoURI": "/images/coins/Safefarm.png"
-    },
-    {
       "name": "Tether USD",
       "symbol": "USDT",
       "address": "0x55d398326f99059ff775485246999027b3197955",
@@ -138,8 +130,8 @@
       "logoURI": "/images/coins/USDT-icon.png"
     },
     {
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
+      "name": "yDai",
+      "symbol": "yDAI",
       "address": "0xB0bCfbeD6Ea222dB16152f0a0C54993FBc91525d",
       "chainId": 56,
       "decimals": 18,
@@ -208,7 +200,7 @@
       "name": "Dai Token",
       "symbol": "DAI",
       "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
-      "chainId": 97,
+      "chainId": 56,
       "decimals": 18,
       "logoURI": "/images/coins/DAI-icon.png"
     },
