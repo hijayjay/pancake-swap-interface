@@ -55,7 +55,7 @@
       "address": "0xA1efCe38CB265Af369e891bC3026d0285545D4E5",
       "chainId": 56,
       "decimals": 9,
-      "logoURI": "/images/coins/SAFETESLA.png"
+      "logoURI": "/images/coins/SAFETESLA.jpg"
     },
     {
       "name": "SAFETRADE Token",
@@ -71,7 +71,7 @@
       "address": "0xa1FD60c51C0BDAC1Ff5BB6067A24d61441E39569",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/SafeNebula.png"
+      "logoURI": "/images/coins/SafeNebula.jpg"
     },
     {
       "name": "CATUSD Token",
@@ -79,7 +79,7 @@
       "address": "0x2EA4b731D5C7e9354Eae6B12E4b8870aDAd02ba4",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/CATUSD.png"
+      "logoURI": "/images/coins/CATUSD.jpg"
     },
     {
       "name": "Bakery Token",
@@ -95,7 +95,7 @@
       "address": "0xAF673d41Cf5531f49717633F5b2Ff400d7521de5",
       "chainId": 56,
       "decimals": 8,
-      "logoURI": "/images/coins/BASE.png"
+      "logoURI": "/images/coins/BASE.jpg"
     },
     {
       "name": "BUSD Token",
@@ -127,7 +127,7 @@
       "address": "0x1A7f0b3aF6e9E9953F4b61ECB2791E55dC7Dcb19",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/CAT.png"
+      "logoURI": "/images/coins/CAT.jpg"
     },
     {
       "name": "SafeFarm Token",
@@ -175,7 +175,7 @@
       "address": "0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/SFP.png"
+      "logoURI": "/images/coins/SFP.jpg"
     },
     {
       "name": "Cardano Token",
