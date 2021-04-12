@@ -35,7 +35,7 @@
     },
     {
       "name": "BSC Nice",
-      "symbol": "BSC",
+      "symbol": "BSCN",
       "address": "0x38b9861cc8Aa30f929425C5b3Eb2C8Dd57Aa2E2F",
       "chainId": 56,
       "decimals": 8,
