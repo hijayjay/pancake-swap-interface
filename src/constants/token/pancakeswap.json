@@ -78,7 +78,7 @@
       "symbol": "CATUSD",
       "address": "0x2EA4b731D5C7e9354Eae6B12E4b8870aDAd02ba4",
       "chainId": 56,
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "/images/coins/CATUSD.jpg"
     },
     {
@@ -88,6 +88,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "/images/coins/bake.png"
+    },
+    {
+      "name": "Safe Exchange Token",
+      "symbol": "SET",
+      "address": "0xA5BFAcF9b9348740dd0333946202821510D27C2c",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "/images/coins/SET.png"
     },
     {
       "name": "MALLSBASE",
