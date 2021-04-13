@@ -74,12 +74,12 @@
       "logoURI": "/images/coins/sTrust.png"
     },
     {
-      "name": "Chainflip",
-      "symbol": "FLIP",
-      "address": "0xd188ADD46ddA5d8672477eA4fee0472AE9045c8c",
+      "name": "SafeUSDT",
+      "symbol": "FUSDT",
+      "address": "0x7a0d683Cb32212bBff57D415eaF5E6DAd98740bb",
       "chainId": 56,
-      "decimals": 18,
-      "logoURI": "/images/coins/flip.png"
+      "decimals": 9,
+      "logoURI": "/images/coins/FUSDT.png"
     },
     {
       "name": "SafeNebula Token",
