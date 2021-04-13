@@ -15,9 +15,9 @@ const Nav: React.FC = () => {
       <StyledAbsoluteLink href="https://exchange.safefarm.finance" className="active">
         <TranslatedText translationId={8}>SafeSwap</TranslatedText>
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://mallsbase.com">MallsBase</StyledAbsoluteLink>
+      <StyledAbsoluteLink href="https://farm.safefarm.finance">Farm $✨</StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://t.me/SafeDao">
-        <TranslatedText translationId={14}>Claim SafeDAO</TranslatedText>
+        <TranslatedText translationId={14}>Claim SafeFarm</TranslatedText>
       </StyledAbsoluteLink>
     </StyledNav>
   )
