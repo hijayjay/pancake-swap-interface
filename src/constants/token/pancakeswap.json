@@ -42,12 +42,12 @@
       "logoURI": "/images/coins/D.png"
     },
     {
-      "name": "Safefarm Token",
-      "symbol": "F",
+      "name": "farn Token",
+      "symbol": "SafeFarm",
       "address": "0xB5fd5E4bAfc490e99ace8d9168Cb4D700fd41B57",
       "chainId": 56,
       "decimals": 8,
-      "logoURI": "/images/coins/SafeFARM.png"
+      "logoURI": "/images/coins/SafeFarm.png"
     },
     {
       "name": "SafeTesla Token",
