@@ -74,6 +74,14 @@
       "logoURI": "/images/coins/sTrust.png"
     },
     {
+      "name": "Chainflip",
+      "symbol": "FLIP",
+      "address": "0xd188ADD46ddA5d8672477eA4fee0472AE9045c8c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/flip.png"
+    },
+    {
       "name": "SafeNebula Token",
       "symbol": "SNBL",
       "address": "0xa1FD60c51C0BDAC1Ff5BB6067A24d61441E39569",
