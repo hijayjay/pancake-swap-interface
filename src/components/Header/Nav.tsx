@@ -16,7 +16,7 @@ const Nav: React.FC = () => {
         <TranslatedText translationId={8}>SafeSwap</TranslatedText>
       </StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://mallsbase.com">MallsBase</StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://t.me/SafeDaoProtocol">
+      <StyledAbsoluteLink href="https://t.me/SafeDao">
         <TranslatedText translationId={14}>Claim SafeDAO</TranslatedText>
       </StyledAbsoluteLink>
     </StyledNav>
