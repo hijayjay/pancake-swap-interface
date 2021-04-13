@@ -66,6 +66,14 @@
       "logoURI": "/images/coins/SAFETRADE.png"
     },
     {
+      "name": "Safe Trust",
+      "symbol": "fTrust",
+      "address": "0xBE2Dc41a08300571D0FfebC9ac64cEf601c9F986",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "/images/coins/fTRUST.png"
+    },
+    {
       "name": "SafeNebula Token",
       "symbol": "SNBL",
       "address": "0xa1FD60c51C0BDAC1Ff5BB6067A24d61441E39569",
