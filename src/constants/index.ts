@@ -4,7 +4,7 @@ import { AbstractConnector } from '@web3-react/abstract-connector'
 // import { bsc, fortmatic, injected, portis, walletconnect, walletlink } from '../connectors'
 import { injected, bsc } from '../connectors'
 // TODO
-export const ROUTER_ADDRESS = '0x05fF2B0DB69458A0750badebc4f9e13aDd608C7F'
+export const ROUTER_ADDRESS = '0x10ED43C718714eb63d5aA57B78B54704E256024E'
 
 // a list of tokens by chain
 type ChainTokenList = {
@@ -54,7 +54,7 @@ export const BASES_TO_TRACK_LIQUIDITY_FOR: ChainTokenList = {
 export const PINNED_PAIRS: { readonly [chainId in ChainId]?: [Token, Token][] } = {
   [ChainId.MAINNET]: [
     [
-      new Token(ChainId.MAINNET, '0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82', 18, 'CAKE', 'PancakeSwap Token'),
+      new Token(ChainId.MAINNET, '0x48e15ABBcb21C7f564c1B5Ae08A9f7829745F6D7', 18, 'CAKE', 'PancakeSwap Token'),
       new Token(ChainId.MAINNET, '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c', 18, 'WBNB', 'Wrapped BNB')
     ],
     [BUSD, USDT],
@@ -100,32 +100,32 @@ export const SUPPORTED_WALLETS: { [key: string]: WalletInfo } = {
     href: null,
     color: '#E8831D'
   }
-  // WALLET_CONNECT: {
-  //   connector: walletconnect,
-  //   name: 'WalletConnect',
-  //   iconName: 'walletConnectIcon.svg',
-  //   description: 'Connect to Trust Wallet, Rainbow Wallet and more...',
-  //   href: null,
-  //   color: '#4196FC',
-  //   mobile: true
-  // },
-  // WALLET_LINK: {
-  //   connector: walletlink,
-  //   name: 'Coinbase Wallet',
-  //   iconName: 'coinbaseWalletIcon.svg',
-  //   description: 'Use Coinbase Wallet app on mobile device',
-  //   href: null,
-  //   color: '#315CF5'
-  // },
-  // COINBASE_LINK: {
-  //   name: 'Open in Coinbase Wallet',
-  //   iconName: 'coinbaseWalletIcon.svg',
-  //   description: 'Open in Coinbase Wallet app.',
-  //   href: 'https://go.cb-w.com/mtUDhEZPy1',
-  //   color: '#315CF5',
-  //   mobile: true,
-  //   mobileOnly: true
-  // },
+   WALLET_CONNECT: {
+   connector: walletconnect,
+   name: 'WalletConnect',
+   iconName: 'walletConnectIcon.svg',
+   description: 'Connect to Trust Wallet, Rainbow Wallet and more...',
+   href: null,
+   color: '#4196FC',
+   mobile: true
+ },
+   WALLET_LINK: {
+     connector: walletlink,
+     name: 'Coinbase Wallet',
+    iconName: 'coinbaseWalletIcon.svg',
+     description: 'Use Coinbase Wallet app on mobile device',
+    href: null,
+    color: '#315CF5'
+  },
+ COINBASE_LINK: {
+   name: 'Open in Coinbase Wallet',
+   iconName: 'coinbaseWalletIcon.svg',
+   description: 'Open in Coinbase Wallet app.',
+   href: 'https://go.cb-w.com/mtUDhEZPy1',
+   color: '#315CF5',
+   mobile: true,
+   mobileOnly: true
+  },
   // FORTMATIC: {
   //   connector: fortmatic,
   //   name: 'Fortmatic',
