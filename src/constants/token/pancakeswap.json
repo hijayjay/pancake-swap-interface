@@ -26,20 +26,20 @@
       "decimals": 18
     },
     {
-      "name": "BSC Nice",
-      "symbol": "BSCN",
-      "address": "0x38b9861cc8Aa30f929425C5b3Eb2C8Dd57Aa2E2F",
+      "name": "Black Diamond",
+      "symbol": "Lava",
+      "address": "0xd217928Ae7ffc8a7D453d1Ef77b6f830b283CFa7",
       "chainId": 56,
-      "decimals": 8,
-      "logoURI": "/images/coins/BSCN.png"
+      "decimals": 18,
+      "logoURI": "/images/coins/Lava.png"
     },
     {
-      "name": "SafeDAO Protocol",
-      "symbol": "D",
-      "address": "0x323938D1e76c145DED3d260717Ec8bcC566278FE",
+      "name": "SafeGas",
+      "symbol": "SAFEGAS",
+      "address": "0x0E6ef701E9CEF56A516C2e10ad093Be351B6c90f",
       "chainId": 56,
-      "decimals": 8,
-      "logoURI": "/images/coins/D.png"
+      "decimals": 9,
+      "logoURI": "/images/coins/Safegas.png"
     },
     {
       "name": "Backup Token",
